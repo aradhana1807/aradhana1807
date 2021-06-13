@@ -1,11 +1,13 @@
 # Hi, this is Aradhana Nayak
 
-Hi, Aradhana here :) 
-Let's see what the future folds ahead for me :D
+Hi, Aradhana here :smile:
+Let's see what the future folds ahead for me :grin:
 
-##  Current knowledge in
+##  Current Knowledge in
 
  - C 
  - C++
  - HTML, CSS, Javascript
- - Flutter and Dart (initial phase)
+ - Node.js (initial phase)
+ - Flutter and Dart (initial phase) 
+ - React.js (initial phase)
