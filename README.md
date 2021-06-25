@@ -16,3 +16,4 @@ Let's see what the future folds ahead for me :grin:
  
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aradhana1807)](https://github.com/aradhana1807/github-readme-stats)
 
+ ![Aradhana's GitHub stats](https://github-readme-stats.vercel.app/api?username=aradhana1807&show_icons=true&theme=radical)
