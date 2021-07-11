@@ -29,9 +29,7 @@ Let's see what the future folds ahead for me :grin:
 <code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/flutter.svg" /></code>
 <code><img height="20" src="https://unpkg.com/simple-icons@v5/icons/dart.svg" /></code>
 
-***NOTE** : Top languages does not indicate my skill level*
- 
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aradhana1807&layout=compact)](https://github.com/aradhana1807/github-readme-stats)
+<br>
 
  ![Aradhana's GitHub stats](https://github-readme-stats.vercel.app/api?username=aradhana1807&show_icons=true&theme=radical)
 
