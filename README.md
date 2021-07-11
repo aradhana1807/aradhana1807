@@ -6,13 +6,13 @@ Let's see what the future folds ahead for me :grin:
 
 <h1> 🌟 Interests</h1>
 
- - 📺  **No Anime, NO life!** : I love watching anime and have been watching since
+ - **📺 No Anime, NO life!** : I love watching anime and have been watching since
    I was 7 year old (*Animax was the first source*)! The most important point in watching anime which I strongly believe is, **ALWAYS WATCH SUBBED**
    
- - 📚 **Manga and Light Novel** : I may not spend maximum of the time in reading manga or LNs but I love reading nonetheless.
+ - **📚 Manga and Light Novel** : I may not spend maximum of the time in reading manga or LNs but I love reading nonetheless.
 
- - 🎶 **Music** : Mostly J-pop, J-rock, Anisongs, EDMs and bit of K-pop (only *IZ\*ONE* has special place in my heart) 
- - 💥 **Other** : I like to write and also sometimes draw (not really?)
+ - **🎶 Music** : Mostly J-pop, J-rock, Anisongs, EDMs and bit of K-pop (only *IZ\*ONE* has special place in my heart) 
+ - **💥 Other** : I like to write and also sometimes draw (not really?)
 
 <h1> Languages learnt: </h1>
 
