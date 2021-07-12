@@ -12,7 +12,7 @@ Let's see what the future folds ahead for me :grin:
  - **📚 Manga and Light Novel** : I may not spend maximum of the time in reading manga or LNs but I love reading nonetheless.
 
  - **🎶 Music** : Mostly J-pop, J-rock, Anisongs, EDMs and bit of K-pop (only *IZ\*ONE* has special place in my heart) 
- - **💥 Other** : I like to write, have a knack in photography ( I wish I ownwd a DSLR of my own) and also sometimes draw (not really?)
+ - **💥 Other** : I like to write, have a knack in photography ( I wish I owned a DSLR of my own) and also sometimes draw (not really?)
 
 <h1> Languages learnt: </h1>
 
