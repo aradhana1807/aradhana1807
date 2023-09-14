@@ -9,6 +9,7 @@ Currently, I have worked with the following technologies :
 - HTML CSS Js
 - Python, Machine Learning (1 year internship)
 - Node.js, Express.js
+- MongoDB
 - Java
 - Spring, Spring Boot
 
