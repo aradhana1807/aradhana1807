@@ -6,7 +6,7 @@ I want to pursure my career in frontend development.
 <br>
 Currently, I have worked with the following technologies :
 - React.js
-- HTML CSS JS
+- HTML CSS Js
 - Python, Machine Learning (1 year internship)
 - Node.js, Express.js
 - Java
